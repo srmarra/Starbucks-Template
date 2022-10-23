@@ -1,9 +1,9 @@
 .info{
     width: 50%;
-    height: 100vh;
     padding-top: 22vh;
     box-sizing: border-box;
     padding-left: 70px;
+    border: solid 1px red;
 }
 
 .info h1{
