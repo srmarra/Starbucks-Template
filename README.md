@@ -1,6 +1,7 @@
 # Starbucks Template
 
-Esse template inspirado no ***Starbucks*** foi desenvolvido em ***REACT*** o objetivo desse site é desenvolver as habilidades de desenvolver sites responsivos e interativos, a maior dificuldade foi deixar ele responsivo sem quebrar.
+Esse template inspirado no ***Starbucks*** foi desenvolvido em ***REACT*** o objetivo desse site é desenvolver as habilidades de sites responsivos e interativos, a maior dificuldade foi deixar ele responsivo sem quebrar.
+
 
 ## Links Uteis
 - UX/UI [FIGMA](https://www.figma.com/file/Dq0KEqkwIMedfMBXGy7CmC/Untitled?node-id=0%3A1)
