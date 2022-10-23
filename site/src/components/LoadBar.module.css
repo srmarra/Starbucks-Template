@@ -1,0 +1,8 @@
+.LoadBar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 6px;
+    background: linear-gradient(90deg, #00704A 23.74%, #38FFBC 100%);
+    transition: all 0.1s;
+}

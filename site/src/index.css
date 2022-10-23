@@ -4,9 +4,9 @@
 
 
 body {
-
   background: rgb(255,244,212);
   background: linear-gradient(113.62deg, #FFF4D4 37.9%, #FFDF83 114.21%);
+
 }
 
 *{
@@ -19,3 +19,4 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+

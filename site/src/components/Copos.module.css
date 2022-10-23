@@ -1,0 +1,30 @@
+.Copos img{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 500px;
+    transition: all 1.5s;
+    filter: drop-shadow(7px 7px 20px rgba(0, 0, 0, 0.481));
+}
+
+
+
+@media (max-width:983px) and (min-height:734px){
+    .Copos img{
+        width: 350px;
+    }
+}
+
+@media (max-width:983px) and (max-height:734px){
+    .Copos img{
+        width: 300px;
+    }
+
+}
+
+@media (max-width:983px) and (max-height:619px){
+    .Copos img{
+        width: 240px;
+    }
+
+}

@@ -1,0 +1,39 @@
+.BaseCafes{
+    width: 600px;
+    height: 450px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    overflow: hidden;
+}
+
+.BaseCafes div{
+    width: 1100px;
+    background: linear-gradient(128.38deg, #00704A 42.91%, #00160F 106.4%);
+    height: 1100px;
+    border-radius: 200000000px;
+    filter: drop-shadow(-5px 20px 10px rgba(0, 0, 0, 0.488));
+}
+
+@media (max-width:983px) and (min-height:734px){
+    .BaseCafes{
+        width: 400px;
+        height: 50vh;
+    }
+
+}
+
+@media (max-width:983px) and (max-height:734px){
+    .BaseCafes{
+        width: 400px;
+        height: 50vh;
+    }
+
+}
+
+@media (max-width:983px) and (max-height:619px){
+    .BaseCafes{
+        width: 380px;
+        height: 40vh;
+    }
+}
