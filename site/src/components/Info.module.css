@@ -3,7 +3,6 @@
     padding-top: 22vh;
     box-sizing: border-box;
     padding-left: 70px;
-    border: solid 1px red;
 }
 
 .info h1{
@@ -50,7 +49,6 @@
         padding-top: 10vh;
         box-sizing: border-box;
         padding-left: 70px;
-        border: 1px solid red;
     }
 
     .info h1{

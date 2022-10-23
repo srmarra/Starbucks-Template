@@ -68,7 +68,6 @@ const [Btn3,setBtn3] = useState("#7D827E");
         setBtn1("#7D827E");
         setBtn2("#7D827E");
         setBtn3("#00704A");
-        setSts(0)
         break;
     }
   }
